@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Kri4n
+- 👋 Hi, I’m Krian Lloyd Lerry
 - 👀 I’m interested in video games, workout, music, and learning new tech tools
-- 🌱 I’m currently learning react
-- 😄 Pronouns: He/Him
+- ⚙️ My tech stacks include PHP, MySQL, MongoDB, ExpressJs, React, and NodeJs.
+- 🏫 I graduated BSIT in University of San Agustin Iloilo and I also finished a coding bootcamp.
+- 🌐 Portfolio: https://kri4n.github.io/webportfolio/
 
 <!---
 Kri4n/Kri4n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
