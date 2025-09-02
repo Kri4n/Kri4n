@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Krian Lloyd Lerry
 - 👀 I’m interested in video games, workout, music, and learning new tech tools
-- ⚙️ My tech stacks include PHP, MySQL, MongoDB, ExpressJs, React, Tailwind, NodeJs and currently learning TypeScript, NextJs and GraphQL.
+- ⚙️ My tech stacks include MongoDB, ExpressJs, React, Tailwind, NodeJs, MySQL, Fluter/Dart and currently learning Go, TypeScript, NextJs and PostgreSQL.
 - 🏫 I graduated BSIT in University of San Agustin Iloilo and I also finished a coding bootcamp.
 - 🌐 Portfolio: https://kri4n.github.io/webportfolio/
 
