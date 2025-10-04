@@ -1,7 +1,5 @@
 <h2 align="left">Hi 👋! My name is Krian Lloyd Lerry, and I'm a Software Developer from the Philippines</h2>
 
-<img src="https://komarev.com/ghpvc/?username=kri4n&color=brightgreen&style=flat" height="40" alt="profile views" />
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kri4n&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kri4n&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -11,7 +9,7 @@
 #
 
 <div align="center">
-  <a href="[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/krian-lloyd-lerry-551a19324/)" target="_blank">
+  <a href="https://www.linkedin.com/in/krian-lloyd-lerry-551a19324/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   
@@ -19,14 +17,15 @@
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
   </a>
   
-  <a href="823866941939646514" target="_blank">
+  <a href="https://discord.com/users/823866941939646514" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   </a>
   
-  <a href="[mailto:youremail@gmail.com](https://mail.google.com/mail/u/0/?fs=1&to=lerrylloyd15@gmail.com&su=&body=&tf=cm)" target="_blank">
+  <a href="mailto:lerrylloyd15@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
 </div>
+
 
 #
 
