@@ -23,13 +23,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Junior Software Developer** at Archangel Technologies, Inc., building production-grade Flutter applications and solving real-world problems across mobile and web. I'm passionate about clean architecture, performance optimization, and shipping features that matter.
-
-- 🔭 Currently working on a **Flutter-based time & attendance system** for enterprise clients
-- 🌱 Recently delivered a **60–70% API response time improvement** in production
-- 🚀 Freelanced for an **Australian client** (U&I Global), re-engineering their website with React + Tailwind
-- 🎓 BSIT Graduate from **University of San Agustin**, Iloilo City
-- ⚡ Fun fact: I set up and maintain **separate dev/staging/prod environments** for multiple clients simultaneously
+I'm a **Software Engineer** passionate about clean architecture, performance optimization, and shipping new features for system enhancement.
 
 ---
 
