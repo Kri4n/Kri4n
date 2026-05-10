@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-### Junior Software Developer · Full-Stack Engineer · Mobile Dev
+### Software Engineer
 
 📍 Mandaluyong City, Metro Manila, Philippines
 
