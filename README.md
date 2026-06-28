@@ -91,7 +91,7 @@ A cross-platform mobile fitness tracker that lets users create and monitor custo
 
 ## 💼 Work Experience
 
-**Software Developer** @ [Archangel Technologies, Inc.](https://archangel.com.ph) *(May 2025 – Present)*
+**Software Developer** @ [Archangel Technologies, Inc.](https://archangel.com.ph) *(May 2025 – March 2026)*
 - 🐛 Resolved client-reported issues across a Flutter-based attendance app with VPN integration
 - 🤖 Integrated automated Flutter integration tests, reducing manual QA effort
 - ⚡ Improved API response time by **~60–70%** for date/time retrieval
